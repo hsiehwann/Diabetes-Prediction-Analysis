@@ -1,5 +1,5 @@
 # Diabetes-Prediction-Analysis
-Diabetes prediction using BRFSS 2015 dataset. Implemented ANN, SVM, and Logistic Regression with SHAP for model interpretability.
+
 此專案旨在開發一個機器學習模型，用於預測患者是否患有糖尿病。除了追求高預測準確率，本專案特別著重於模型解釋性，分析各項生理指標（如血糖、BMI 等）如何影響預測結果，以提供更具參考價值的醫療洞察。
 
 核心流程包含：
